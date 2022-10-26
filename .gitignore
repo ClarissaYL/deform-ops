@@ -1,0 +1,5 @@
+**.DS_Store
+
+MultiScaleDeformableAttention.egg-info/
+build/
+dist/
